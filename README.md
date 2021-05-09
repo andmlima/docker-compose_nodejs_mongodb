@@ -7,13 +7,14 @@
 - Docker
 - Docker-compose
 
-### Running
+### Clone repository
 
-- Install dependencies - `npm i`
-- Build typescript - `npm run build`
-- Run project - `npm start`
-- Go to swagger page - `localhost:3000/`
+- git clone https://github.com/andmlima/docker-compose_nodejs_mongodb.git
 
-### Development with Watch Compiler
+### Running Docker-compose
 
-- Run once - `docker-compose up -d`
+- command - `docker-compose up -d`
+
+### Stopping Docker-compose
+
+- command `docker-compose down`
