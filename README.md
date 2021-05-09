@@ -16,5 +16,4 @@
 
 ### Development with Watch Compiler
 
-- Run once - `npm run dev`
-- Run and watch files - `npm run dev:watch`
+- Run once - `docker-compose up -d`
