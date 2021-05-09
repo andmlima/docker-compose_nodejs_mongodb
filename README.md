@@ -9,7 +9,7 @@
 
 ### Clone repository
 
-- git clone https://github.com/andmlima/docker-compose_nodejs_mongodb.git
+`git clone https://github.com/andmlima/docker-compose_nodejs_mongodb.git`
 
 ### Running Docker-compose
 
